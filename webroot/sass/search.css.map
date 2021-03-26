@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gBAAgB;EACd,aAAa,EAAE,IAAI",
+"sources": ["search.sass"],
+"names": [],
+"file": "search.css"
+}
